@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Guga-melo/Guga-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,4 +13,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/Guga-melo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guga-melo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-melo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
