@@ -1,7 +1,7 @@
 ## Wellcome to my profile, get a coffe, a keybord and have a nice day!
 <div align="left">
   <a href="https://github.com/Guga-melo"></a>
-  <img height="1500em" src="https://github-readme-stats.vercel.app/api?username=Guga-melo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guga-melo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" alt="puter-React" height="200" width="400" src="https://cdn.discordapp.com/attachments/693214606960885834/1010271075176820776/on_my_puter.png">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-melo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
