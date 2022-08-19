@@ -5,6 +5,9 @@
   <img align="right" alt="puter-React" height="150" width="420" src="https://cdn.discordapp.com/attachments/693214606960885834/1010271075176820776/on_my_puter.png">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-melo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## My skills
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Guga-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Guga-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
