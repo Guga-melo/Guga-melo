@@ -1,5 +1,5 @@
 ## Wellcome to my profile, get a coffe, a keybord and have a nice day!
-<div align="center">
+<div align="left">
   <a href="https://github.com/Guga-melo"></a>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Guga-melo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" alt="puter-React" height="200" width="400" src="https://cdn.discordapp.com/attachments/693214606960885834/1010271075176820776/on_my_puter.png">
