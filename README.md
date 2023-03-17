@@ -1,4 +1,4 @@
-# Hello! My name is Gustavo Soares, nice to meet you! 
+# Welcome stranger! Grab a coffe, get comfy and let me tell you about myself 🐺
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Guga-melo/Guga-melo/blob/main/assets/beastars-legosi.gif">
