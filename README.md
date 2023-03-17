@@ -29,7 +29,47 @@
 </br>
 </br>
 
+# 42 school projects :
+<a href="https://github.com/Guga-melo/libft_42">
+<img height="80px" src="./42_badges/libftm.png" />
+</a>
+<a href="https://github.com/Guga-melo/get_next_line_42">
+<img height="80px" src="./42_badges/get_next_linem.png" />
+</a>
+<a href="https://github.com/Guga-melo/Born2beRoot_42">
+<img height="80px" src="./42_badges/born2beroote.png" />
+</a>
+<a href="https://github.com/Guga-melo/ft_printf_42">
+<img height="80px" src="./42_badges/ft_printfe.png" />
+</a>
+<a href="https://github.com/Guga-melo/pipex_42">
+<img height="80px" src="./42_badges/pipexe.png" />
+</a>
+<a href="https://github.com/Guga-melo/so_long_42">
+<img height="80px" src="./42_badges/so_longe.png" />
+</a>
+<a href="https://github.com/Guga-melo/push_swap_42">
+<img height="80px" src="./42_badges/push_swape.png" />
+</a>
+<a href="https://github.com/Guga-melo/philosophers_42">
+<img height="80px" src="./42_badges/philosopherse.png" />
+</a>
+<a href="https://github.com/Guga-melo/minishell_42">
+<img height="80px" src="./42_badges/minishelle.png" />
+</a>
+<a href="https://github.com/Guga-melo">
+<img height="80px" src="./42_badges/netpracticee.png" />
+</a>
+<a href="https://github.com/Guga-melo">
+<img height="80px" src="./42_badges/cppn.png" />
+</a>
+<a href="https://github.com/Guga-melo">
+<img height="80px" src="./42_badges/cub3dn.png" />
+</a>
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,github,cpp,python,js)](https://skillicons.dev)
+<br>
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
