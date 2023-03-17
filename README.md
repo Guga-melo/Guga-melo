@@ -11,12 +11,13 @@
 
 # About ME 💬 :
 
-### - I'm 22 years old software engineer stundent from Brazil.
+### - I'm 22 years old software engineer student from Brazil.
 
 <img hight="400" width="500" alt="PNG" align="right" src="https://cdn.discordapp.com/attachments/693214606960885834/1010271075176820776/on_my_puter.png">
 
 ### - Learning :
 - ✨ Current studing at 42|Rio
+- ✨ C/C++
 
 ### - Hobbies : 
 - ✨ Gaming Addict
