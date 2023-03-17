@@ -1,4 +1,4 @@
-# Wellcome to my profile, get a coffe, a keybord and have a nice day!
+# Hello! My name is Gustavo Soares, nice to meet you! 
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Guga-melo/Guga-melo/blob/main/assets/beastars-legosi.gif">
