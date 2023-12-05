@@ -64,6 +64,15 @@
 <a href="https://github.com/Guga-melo">
 <img height="80px" src="./42_badges/cub3dn.png" />
 </a>
+<a href="https://github.com/Guga-melo">
+<img height="80px" src="./src/42_badges/cppe.png" />
+</a>
+<a href="https://github.com/Guga-melo">
+<img height="80px" src="./src/42_badges/inceptione.png" />
+</a>
+<a href="https://github.com/Guga-melo">
+<img height="80px" src="./src/42_badges/webservn.png" />
+</a>
 
 ## Language & Tools 👨‍💻 🛠:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,github,cpp,python,js)](https://skillicons.dev)
