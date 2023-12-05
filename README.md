@@ -59,10 +59,10 @@
 <img height="80px" src="./42_badges/netpracticee.png" />
 </a>
 <a href="https://github.com/Guga-melo">
-<img height="80px" src="./42_badges/cppn.png" />
+<img height="80px" src="./42_badges/cppe.png" />
 </a>
 <a href="https://github.com/Guga-melo">
-<img height="80px" src="./42_badges/cub3dn.png" />
+<img height="80px" src="./42_badges/cub3de.png" />
 </a>
 <a href="https://github.com/Guga-melo">
 <img height="80px" src="./42_badges/cppe.png" />
@@ -71,7 +71,7 @@
 <img height="80px" src="./42_badges/inceptione.png" />
 </a>
 <a href="https://github.com/Guga-melo">
-<img height="80px" src="./42_badges/webservn.png" />
+<img height="80px" src="./42_badges/webserve.png" />
 </a>
 
 ## Language & Tools 👨‍💻 🛠:
