@@ -11,7 +11,7 @@
 
 ### - I'm 23 years old software engineer student from Brazil.
 
-<img hight="400" width="500" alt="PNG" align="right" src="https://discordapp.com/channels/1297962009349980160/1297962009349980163/1297962070528098324">
+<img hight="400" width="500" alt="PNG" align="right" src="https://github.com/Guga-melo/Guga-melo/blob/main/assets/puterCat.png?raw=true">
 
 ### - Learning :
 - ✨ Current studing at 42|Rio
