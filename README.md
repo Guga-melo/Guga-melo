@@ -77,7 +77,7 @@
 </a>
 
 ## Language & Tools 👨‍💻 🛠:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,github,cpp,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,github,ruby,python,js)](https://skillicons.dev)
 <br>
 
 
