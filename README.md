@@ -1,4 +1,4 @@
-# Welcome stranger! Grab a coffe, get comfy and let me tell you about myself 🐺
+# Welcome stranger! Grab a coffe, get comfy and let me tell you about myself :D
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Guga-melo/Guga-melo/blob/main/assets/beastars-legosi.gif">
@@ -11,12 +11,13 @@
 
 ### - I'm 23 years old software engineer student from Brazil.
 
-<img hight="400" width="500" alt="PNG" align="right" src="https://github.com/Guga-melo/Guga-melo/blob/main/assets/puterCat.png?raw=true">
+<img hight="500" width="350" alt="PNG" align="right" src="https://github.com/Guga-melo/Guga-melo/blob/main/assets/puterCat.png?raw=true">
 
 ### - Learning :
-- ✨ Current studing at 42|Rio
+- ✨ Currently studing at 42|Rio
 - ✨ C/C++
 - ✨ Python
+- ✨ Ruby on Rails
 
 ### - Hobbies : 
 - ✨ Gaming Addict
