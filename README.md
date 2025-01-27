@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - I'm 23 years old software engineer student from Brazil.
+### - I'm 24 years old software engineer student from Brazil.
 
 <img hight="500" width="350" alt="PNG" align="right" src="https://github.com/Guga-melo/Guga-melo/blob/main/assets/puterCat.png?raw=true">
 
@@ -77,7 +77,7 @@
 </a>
 
 ## Language & Tools 👨‍💻 🛠:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,github,ruby,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,github,ruby,rails,python,js)](https://skillicons.dev)
 <br>
 
 
